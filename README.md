@@ -7,11 +7,11 @@ After five years of study, I realized that theoretical studies did not meet my e
 ## Educational Background
 
 **University of Liège**   
-Bachelor's in Engineering Sciences, specializing in Civil Engineering (not graduated, completed up to the third year)
+Bachelor's in Engineering Sciences, specializing in Civil Engineering (not graduated, completed up to the third year)  
 4 years
 
 **ISIL HEPL**   
-Bachelor's in Industrial Sciences, specializing in Industrial Engineering in Computer Science (not graduated, completed up to the third year)
+Bachelor's in Industrial Sciences, specializing in Industrial Engineering in Computer Science (not graduated, completed up to the third year)  
 1 year
 
 **Programming language:**
@@ -23,14 +23,13 @@ Bachelor's in Industrial Sciences, specializing in Industrial Engineering in Com
 
 **DevOps tools:**
 
-- Docker
-- Swarm
+- Docker && Docker Swarm
 - Ansible
 - CI/CD
 - Jenkins
 - Kubernetes
 - OpenStack
-- Azure
+- Azure Cloud
 
 **Operating Systems:**
 
@@ -39,5 +38,6 @@ Bachelor's in Industrial Sciences, specializing in Industrial Engineering in Com
 
 **Languages:**
 
-- French (Professional)
+- French (Native)
 - English (Technical)
+- German (Basic)
