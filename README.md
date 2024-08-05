@@ -14,18 +14,21 @@ Bachelor's in Engineering Sciences, specializing in Civil Engineering (not gradu
 Bachelor's in Industrial Sciences, specializing in Industrial Engineering in Computer Science (not graduated, completed up to the third year)  
 1 year
 
+## IT Skills
+
 **Programming language:**
 
 - Python
 - C
-- C# / ASP.NET / ADO.NET
+- C# && C# OO / ASP.NET / ADO.NET
 - MariaDB / MySQL / PostgreSQL
 
 **DevOps tools:**
 
 - Docker && Docker Swarm
 - Ansible
-- CI/CD
+- Terraform
+- CI/CD (Gitlab && Github)
 - Jenkins
 - Kubernetes
 - OpenStack
